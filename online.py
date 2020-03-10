@@ -1,6 +1,7 @@
 import vk_api
 import time
 
+print('===== VK AUTO OFFLINE =====')
 login = input('Enter a login: ')
 password = input('Enter a password: ')
 
