@@ -12,4 +12,4 @@ vk = vk_session.get_api()
 while True:
     vk.account.setOffline()
     print('Offline!')
-    time.sleep(1)
+    time.sleep(0.2)
